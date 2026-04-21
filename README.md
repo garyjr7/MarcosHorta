@@ -41,12 +41,12 @@ Fundador de **BAJIOWARE** · Offensive Security Engineer · AI Systems Builder
 | Objetivo | Progreso | Estado |
 |----------|----------|--------|
 | OffSec PEN-200 (OSCP+) | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-80%25-00d4ff?style=flat-square&labelColor=0b1520) | 🔵 En proceso |
-| AI Security @ tryhackme | ![65%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-65%25-00ff88?style=flat-square&labelColor=0b1520) | 🔵 En proceso |
-| BAJIOWARE CRM Platform | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-85%25-00ff88?style=flat-square&labelColor=0b1520) | 🟢 Activo |
-| WEB-ASSAULT-X (Bug Bounty AI) | ![90%](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-90%25-ff9d00?style=flat-square&labelColor=0b1520) |🟢 Activo y Debuggeando |
-| CREW-X | ![100%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-100%25-00d4ff?style=flat-square&labelColor=0b1520) | 🟢 Activo |
-| VOID-C2 Framework | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-50%25-00d4ff?style=flat-square&labelColor=0b1520) | 🔵 En Desarrollo |
-| NEXUS PRO | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-85%25-00d4ff?style=flat-square&labelColor=0b1520) | 🔵 En Desarrollo |
+| AI Security @ tryhackme | ![65%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-65%35-00ff88?style=flat-square&labelColor=0b1520) | 🔵 En proceso |
+| BAJIOWARE CRM Platform | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-85%15-00ff88?style=flat-square&labelColor=0b1520) | 🟢 Activo |
+| WEB-ASSAULT-X (Bug Bounty AI) | ![90%](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-90%15-ff9d00?style=flat-square&labelColor=0b1520) |🟢 Activo y Debuggeando |
+| CREW-X | ![100%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-100%0-00d4ff?style=flat-square&labelColor=0b1520) | 🟢 Activo |
+| VOID-C2 Framework | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-50%50-00d4ff?style=flat-square&labelColor=0b1520) | 🔵 En Desarrollo |
+| NEXUS PRO | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-85%15-00d4ff?style=flat-square&labelColor=0b1520) | 🔵 En Desarrollo |
 
 ---
 
