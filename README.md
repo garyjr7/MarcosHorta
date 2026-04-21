@@ -96,37 +96,22 @@ El objetivo del laboratorio es replicar escenarios reales para el análisis, dis
 <tr>
 <td valign="top" width="33%">
 
-**💻Frontend, Backend & APIs**
-```
-FastAPI (Python)
-Node.js + Express
-JWT Auth
-PostgreSQL / MySQL
-SQLite
-Vue 3 (Composition API)
-Tailwind CSS
-Vite + Pinia
-
-```
-
-</td>
-<td valign="top" width="33%">
-
-**🎨 Network Fundamentals**
+**⚙️  Network Fundamentals**
 ```
 OSI Model / Networking / The CIA Triad
 DNS / HTTP / Client-Server Basics
 Virtualisation Basics /  LAN
 Cloud Computing Fundamentals
-Windows / Linux CLI / Python 
+Windows / Linux CLI / Python
+
 ```
 
 </td>
 <td valign="top" width="33%">
 
-**🛡️ Ciberseguridad Ofensiva**
+** 🛡️ Ciberseguridad Ofensiva**
 ```
-Kali Linux
+Kali Linux / TOR / Parrot OS
 Shodan / Google Dork / Ammas
 Subfinder / Dig 
 Nmap / Masscan / RustCan
@@ -139,6 +124,23 @@ BloodHound / Mimikatz / Meterpreter
 Hashcat / John the Ripper / Aircrack-ng 
 Hydra / Medusa 
 Wireshark / Bettercap / Ettercap
+
+```
+
+</td>
+<td valign="top" width="33%">
+
+** 💻Frontend, Backend & APIs**
+```
+FastAPI (Python)
+Node.js + Express
+JWT Auth
+PostgreSQL / MySQL
+SQLite
+Vue 3 (Composition API)
+Tailwind CSS
+Vite + Pinia
+
 ```
 
 </td>
