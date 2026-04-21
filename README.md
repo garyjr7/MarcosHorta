@@ -165,10 +165,6 @@ Git (kill-chain workflow)
 </td>
 <td valign="top">
 
-```
-
-</td>
-</tr>
 </table>
 
 ---
