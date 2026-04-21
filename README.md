@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝ ╚════╝ ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
-### **Marcos Ivan Horta Reveles** · León, Guanajuato, MX
+### **Marcos Horta** · León, Guanajuato, MX
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Offensive+Security+Engineer;AI+Systems+Architect;%22Si+no+puedes+atacarlo%2C+no+deber%C3%ADas+construirlo.%22)
 
@@ -171,7 +171,7 @@ Git (kill-chain workflow)
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Junior_Reveles-0077b5?style=flat-square&logo=linkedin&logoColor=white)](TU_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Horta-0077b5?style=flat-square&logo=linkedin&logoColor=white)](TU_LINK)
 [![Email](https://img.shields.io/badge/Email-TU_EMAIL-00d4ff?style=flat-square&logo=gmail&logoColor=white)](mailto:bajioware@gmail.com)
 [![BAJIOWARE](https://img.shields.io/badge/🌐_BAJIOWARE-www.bajioware.com.mx-00ff88?style=flat-square)](https://www.bajioware.com.mx)
 
